@@ -2,7 +2,7 @@
 
 1. Clona este repositorio en tu equipo
 
-2. Añade un archivo al repositorio desde tu IDE, que tendrá un comentario: 
+2. Añade un archivo al repositorio desde tu IDE, que tendrá un comentario: <br>
     //1) Añadido desde PHPStorm - tuNombre
     * Confirma los cambios (*commit*) tecleando una descripción adecuada.
 
