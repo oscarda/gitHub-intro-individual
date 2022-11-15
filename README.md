@@ -5,6 +5,7 @@
 2. Añade un archivo al repositorio desde tu IDE, que tendrá un comentario:  
     //1) Añadido desde PHPStorm - tuNombre
     * Confirma los cambios (*commit*) tecleando una descripción adecuada.
+    * Sube los cambios al repositorio en la nube (*push*).
 
 3. Desde GitHub, accede al repositorio y añade un segundo comentario a tu archivo:  
     //2) Desde GitHub - tuNombre
